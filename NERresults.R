@@ -6,7 +6,7 @@ library(sqldf)
 library(ggplot2)
 library(tm)
 library(lsa)
-library(viridis)
+
 
 
 #load in data
