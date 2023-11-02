@@ -1,4 +1,5 @@
 #Fuzzy Script
+#Written by Diego Ford
 #Load packages
 import pandas as pd
 import numpy as np
