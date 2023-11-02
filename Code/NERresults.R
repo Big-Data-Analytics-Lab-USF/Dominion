@@ -46,8 +46,6 @@ locationCounts <- sqldf("SELECT entity, COUNT(entity) FROM NER_dates WHERE tag =
                         GROUP BY entity ORDER BY COUNT(entity) DESC")
 
 
-#write.csv of counted locations
-#write.csv(locationCounts, 'C:/Users/13212/OneDrive/Documents/College/USF/GA Position/Dominon/location_counts_oct28_nov12.csv')
 
 
 #add dates 
@@ -59,9 +57,6 @@ matching_indices <- match(NER_dates$tweet_id, Combined$Query.Id)
 
 # Create a new date column based on the matches
 NER_dates$date <- Combined$Date[matching_indices]
-
-#save as csv
-#write.csv(NER_dates, file = "CombinedNER_dates.csv", row.names = FALSE)
 
 
 #create date frequency plot
@@ -156,9 +151,6 @@ similarities <- compare_strings_cosine_dataset(clean)
 similarities <- as.data.frame(similarities)
 
 subset <- cbind(clean, similarities)
-
-#saving as csv since its takes a long time to run
-#write.csv(subset, 'C:/Users/13212/OneDrive/Documents/College/USF/GA Position/Dominon/raw NER/Larger Model/LargeNERcosine.csv')
 
 
 subset <- read.csv("C:/Users/13212/OneDrive/Documents/College/USF/GA Position/Dominon/raw NER/Larger Model/Results/LargeNERcosine.csv")
