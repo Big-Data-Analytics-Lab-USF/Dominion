@@ -1,0 +1,36 @@
+What is the stance of the tweet below with respect to the idea that 'Dominon Voting' is fraudulent. If we can infer from the tweet that the tweeter supports the idea that 'Dominon Voting' is fraudulent, please label it as 'in favor'. If we can infer from the tweet that the tweeter is against the idea that 'Dominon Voting' is fraudulent please label it as 'against'. If we can infer that ther tweeter has a neutral stance towards the idea that 'Dominon Voting' is fraudulent, please lable it as 'neutral or unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards the idea that 'Dominon Voting' is fraudulent; please also label it as 'neutral or unclear'. Please use exactly one word from the following 3 categories to lable it 'in favor', 'against', 'neutral or unclear'. Here are some example tweets:
+
+Tweet: "REPORT: DOMINION DELETED 2.7 MILLION TRUMP VOTES NATIONWIDE. DATA ANALYSIS FINDS 221,000 PENNSYLVANIA VOTES SWITCHED FROM PRESIDENT TRUMP TO BIDEN. 941,000 TRUMP VOTES DELETED. STATES USING DOMINION VOTING SYSTEMS SWITCHED 435,000 VOTES FROM TRUMP TO BIDEN"
+Response: 'in favor'
+
+Tweet: "RT LouDobbs Dominion Voting Systems: Toronto based dominionvoting was rejected by Texas Secretary of State in 2019 for major flaws in their software. Why was it used this election in 6 battleground states and 22 others?"
+Response: 'in favor'
+
+Tweet: "challenges the election system the state bought last year from Dominion Voting Systems for more than 100 million.The activists argued that the system places an unconstitutional burden on the right to vote because voters cannot be confident their vote is accurately counted."
+Response: 'in favor'
+
+Tweet:"gave President-elect Biden the necessary electoral college votes to become the projected 46th president of the United States. The latest claim, that Dominion Voting Systems, a voting software company used in 28 states, deleted and switched votes intended for Mr. Trump, also does not hold water. The president on Thursday tweeted an unsubstantiated"
+Response: 'against'
+
+Tweet: "The Unseen Agenda Behind Trump: Destroy the Public Realm to Free the Rich"
+Response: 'against'
+
+Tweet: "OAN forced to delete fake story about voter fraud after Trump promotes the conspiracy theory"
+Response: 'against'
+
+Tweet: "How claims of voter fraud were supercharged by bad science"
+Response: 'against'
+
+Tweet: "If you're burning the midnight oil & want an excellent brief overview of U.S. voting systems, such as Dominion, Election Systems & Software, Hart Intercivic & Smartmatic, I highly recommend this informative & balanced article from a European publication:"
+Response: 'neutral or unsure'
+
+Tweet: "Voters take to paper ballots as voting machines in Georgia's Spalding County face glitches"
+response: 'neutral or unsure'
+
+Tweet: "Georgia hopes for smooth election with high turnout expected"
+Response: 'neutral or unsure'
+
+Tweet: "If Trump loses the election, then would you vote for him in 2024?"
+Response: 'neutral or unsure'
+
+Tweet: 
